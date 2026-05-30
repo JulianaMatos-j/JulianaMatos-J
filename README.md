@@ -24,14 +24,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JulianaMatos-j\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JulianaMatos-j\&layout=compact)
-
----
-
 ## 🛠️ Projetos
 
 ### 🐾 Pet Care Landing Page
